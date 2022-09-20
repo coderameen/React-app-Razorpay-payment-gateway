@@ -9,8 +9,8 @@ const App = () => {
      else{
       //alert(amount);
       var options ={
-        key:"rzp_test_VyJYYxTfQzX5aF",
-        key_secret:"rzp_test_VyJYYxTfQzX5aF",
+        key:"API_KEY",
+        key_secret:"API_KEY_SECRET",
         amount: amount*100,
         currency:"INR",
         name:"ameen",
