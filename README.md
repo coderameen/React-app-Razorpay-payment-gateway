@@ -8,3 +8,5 @@ Steps to Add API:
 <script src="https://checkout.razorpay.com/v1/checkout.js"></script>
 2. add App.js content as same as file attached
 3.add Index.js content as same as file attached
+
+note: "USE YOUR OWN API KEY and API SECRET KEY",, you can find the api and api_secret key in Razorpay Settings(Regenerate it)
